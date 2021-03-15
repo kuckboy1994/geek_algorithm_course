@@ -1,0 +1,26 @@
+{
+  "name": "geek_algorithm_course",
+  "version": "1.0.0",
+  "description": "极客大学算法课程",
+  "main": "index.js",
+  "scripts": {
+    "make": "gulp make --no $*",
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuckboy1994/geek_algorithm_course.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuckboy1994/geek_algorithm_course/issues"
+  },
+  "homepage": "https://github.com/kuckboy1994/geek_algorithm_course#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
