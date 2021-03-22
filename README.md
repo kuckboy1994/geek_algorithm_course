@@ -35,7 +35,10 @@
 [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [查看](./page/50.md) | [查看](./source/50.js)
 [51. N 皇后](https://leetcode-cn.com/problems/n-queens/) | [查看](./page/51.md) | [查看](./source/51.js)
 [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | [查看](./page/52.md) | [查看](./source/52.js)
+[53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [查看](./page/53.md) | [查看](./source/53.js)
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [查看](./page/55.md) | [查看](./source/55.js)
+[62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [查看](./page/62.md) | [查看](./source/62.js)
+[63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | [查看](./page/63.md) | [查看](./source/63.js)
 [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [查看](./page/69.md) | [查看](./source/69.js)
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [查看](./page/70.md) | [查看](./source/70.js)
 [78. 子集](https://leetcode-cn.com/problems/subsets/) | [查看](./page/78.md) | [查看](./source/78.js)
@@ -44,6 +47,7 @@
 [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [查看](./page/98.md) | [查看](./source/98.js)
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [查看](./page/102.md) | [查看](./source/102.js)
 [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [查看](./page/104.md) | [查看](./source/104.js)
+[120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | [查看](./page/120.md) | [查看](./source/120.js)
 [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [查看](./page/122.md) | [查看](./source/122.js)
 [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [查看](./page/144.md) | [查看](./source/144.js)
 [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | [查看](./page/169.md) | [查看](./source/169.js)
@@ -63,6 +67,7 @@
 [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | [查看](./page/860.md) | [查看](./source/860.js)
 [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [查看](./page/874.md) | [查看](./source/874.js)
 [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [查看](./page/1021.md) | [查看](./source/1021.js)
+[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [查看](./page/1143.md) | [查看](./source/1143.js)
 [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [查看](./page/剑指offer-40.md) | [查看](./source/剑指offer-40.js)
 
 
