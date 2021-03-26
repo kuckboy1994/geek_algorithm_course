@@ -81,6 +81,7 @@
 [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [查看](./page/874.md) | [查看](./source/874.js)
 [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [查看](./page/1021.md) | [查看](./source/1021.js)
 [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [查看](./page/剑指offer-06.md) | [查看](./source/剑指offer-06.js)
+[剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [查看](./page/剑指offer-68.md) | [查看](./source/剑指offer-68.js)
 [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [查看](./page/剑指offer-40.md) | [查看](./source/剑指offer-40.js)
 [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [查看](./page/1143.md) | [查看](./source/1143.js)
 
