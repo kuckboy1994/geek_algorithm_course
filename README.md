@@ -22,7 +22,8 @@
 [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [查看](./page/874.md) | [查看](./source/874.js)
 
 ## 第三周作业
-
+题号 | 题解 | 代码
+-- | -- | --
 [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [查看](./page/64.md) | [查看](./source/64.js)
 [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | [查看](./page/91.md) | [查看](./source/91.js)
 [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [查看](./page/221.md) | [查看](./source/221.js)
@@ -85,11 +86,11 @@
 [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | [查看](./page/860.md) | [查看](./source/860.js)
 [874. 模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation/) | [查看](./page/874.md) | [查看](./source/874.js)
 [1021. 删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) | [查看](./page/1021.md) | [查看](./source/1021.js)
+[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [查看](./page/1143.md) | [查看](./source/1143.js)
 [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [查看](./page/1047.md) | [查看](./source/1047.js)
 [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [查看](./page/剑指offer-06.md) | [查看](./source/剑指offer-06.js)
 [剑指 Offer 68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [查看](./page/剑指offer-68.md) | [查看](./source/剑指offer-68.js)
 [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [查看](./page/剑指offer-40.md) | [查看](./source/剑指offer-40.js)
-[1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | [查看](./page/1143.md) | [查看](./source/1143.js)
 
 
 
